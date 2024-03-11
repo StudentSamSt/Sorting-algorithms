@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting algorithms", "Sorting algorithms\Sorting algorithms.csproj", "{920BCF03-8F07-47D7-9453-7E74C7D98C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920BCF03-8F07-47D7-9453-7E74C7D98C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920BCF03-8F07-47D7-9453-7E74C7D98C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920BCF03-8F07-47D7-9453-7E74C7D98C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920BCF03-8F07-47D7-9453-7E74C7D98C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC0FA399-8D6A-4D00-BF87-EC44EE2D9A48}
+	EndGlobalSection
+EndGlobal
